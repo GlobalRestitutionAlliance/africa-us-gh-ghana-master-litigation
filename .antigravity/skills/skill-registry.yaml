@@ -1,14 +1,757 @@
 skills:
-- id: icj-judgment-enforcement-and-article-94-sanctions
-  name: ICJ Judgment Enforcement & Article 94 Sanctions
-  status: ACTIVE
-  manifest_file: .antigravity/skills/icj-judgment-enforcement-and-article-94-sanctions.yaml
-- id: historical-intervention-and-canal-concession-audit
-  name: Historical Intervention & Canal Concession Audit
-  status: ACTIVE
-  manifest_file: .antigravity/skills/historical-intervention-and-canal-concession-audit.yaml
-- id: ghanan-restitution-roadmap-and-qsf-trust-execution
-  name: Ghanan Restitution Roadmap & QSF Trust Execution
-  status: ACTIVE
-  manifest_file: .antigravity/skills/ghanan-restitution-roadmap-and-qsf-trust-execution.yaml
-total_skills: 3
+  - id: skill_gh_001
+    name: Ghana Skill 001
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gh_002
+    name: Ghana Skill 002
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gh_003
+    name: Ghana Skill 003
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gh_004
+    name: Ghana Skill 004
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gh_005
+    name: Ghana Skill 005
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gh_006
+    name: Ghana Skill 006
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gh_007
+    name: Ghana Skill 007
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gh_008
+    name: Ghana Skill 008
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gh_009
+    name: Ghana Skill 009
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gh_010
+    name: Ghana Skill 010
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gh_011
+    name: Ghana Skill 011
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gh_012
+    name: Ghana Skill 012
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gh_013
+    name: Ghana Skill 013
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gh_014
+    name: Ghana Skill 014
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gh_015
+    name: Ghana Skill 015
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gh_016
+    name: Ghana Skill 016
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gh_017
+    name: Ghana Skill 017
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gh_018
+    name: Ghana Skill 018
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gh_019
+    name: Ghana Skill 019
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gh_020
+    name: Ghana Skill 020
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gh_021
+    name: Ghana Skill 021
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gh_022
+    name: Ghana Skill 022
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gh_023
+    name: Ghana Skill 023
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gh_024
+    name: Ghana Skill 024
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gh_025
+    name: Ghana Skill 025
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gh_026
+    name: Ghana Skill 026
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gh_027
+    name: Ghana Skill 027
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gh_028
+    name: Ghana Skill 028
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gh_029
+    name: Ghana Skill 029
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gh_030
+    name: Ghana Skill 030
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gh_031
+    name: Ghana Skill 031
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gh_032
+    name: Ghana Skill 032
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gh_033
+    name: Ghana Skill 033
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gh_034
+    name: Ghana Skill 034
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gh_035
+    name: Ghana Skill 035
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gh_036
+    name: Ghana Skill 036
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gh_037
+    name: Ghana Skill 037
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gh_038
+    name: Ghana Skill 038
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gh_039
+    name: Ghana Skill 039
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gh_040
+    name: Ghana Skill 040
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gh_041
+    name: Ghana Skill 041
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gh_042
+    name: Ghana Skill 042
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gh_043
+    name: Ghana Skill 043
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gh_044
+    name: Ghana Skill 044
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gh_045
+    name: Ghana Skill 045
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gh_046
+    name: Ghana Skill 046
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gh_047
+    name: Ghana Skill 047
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gh_048
+    name: Ghana Skill 048
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gh_049
+    name: Ghana Skill 049
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gh_050
+    name: Ghana Skill 050
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gh_051
+    name: Ghana Skill 051
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gh_052
+    name: Ghana Skill 052
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gh_053
+    name: Ghana Skill 053
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gh_054
+    name: Ghana Skill 054
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gh_055
+    name: Ghana Skill 055
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gh_056
+    name: Ghana Skill 056
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gh_057
+    name: Ghana Skill 057
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gh_058
+    name: Ghana Skill 058
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gh_059
+    name: Ghana Skill 059
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gh_060
+    name: Ghana Skill 060
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gh_061
+    name: Ghana Skill 061
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gh_062
+    name: Ghana Skill 062
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gh_063
+    name: Ghana Skill 063
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gh_064
+    name: Ghana Skill 064
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gh_065
+    name: Ghana Skill 065
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gh_066
+    name: Ghana Skill 066
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gh_067
+    name: Ghana Skill 067
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gh_068
+    name: Ghana Skill 068
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gh_069
+    name: Ghana Skill 069
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gh_070
+    name: Ghana Skill 070
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gh_071
+    name: Ghana Skill 071
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gh_072
+    name: Ghana Skill 072
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gh_073
+    name: Ghana Skill 073
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gh_074
+    name: Ghana Skill 074
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gh_075
+    name: Ghana Skill 075
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gh_076
+    name: Ghana Skill 076
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gh_077
+    name: Ghana Skill 077
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gh_078
+    name: Ghana Skill 078
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gh_079
+    name: Ghana Skill 079
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gh_080
+    name: Ghana Skill 080
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gh_081
+    name: Ghana Skill 081
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gh_082
+    name: Ghana Skill 082
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gh_083
+    name: Ghana Skill 083
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gh_084
+    name: Ghana Skill 084
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gh_085
+    name: Ghana Skill 085
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gh_086
+    name: Ghana Skill 086
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gh_087
+    name: Ghana Skill 087
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gh_088
+    name: Ghana Skill 088
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gh_089
+    name: Ghana Skill 089
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gh_090
+    name: Ghana Skill 090
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gh_091
+    name: Ghana Skill 091
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gh_092
+    name: Ghana Skill 092
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gh_093
+    name: Ghana Skill 093
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gh_094
+    name: Ghana Skill 094
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gh_095
+    name: Ghana Skill 095
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gh_096
+    name: Ghana Skill 096
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gh_097
+    name: Ghana Skill 097
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gh_098
+    name: Ghana Skill 098
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gh_099
+    name: Ghana Skill 099
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gh_100
+    name: Ghana Skill 100
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gh_101
+    name: Ghana Skill 101
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gh_102
+    name: Ghana Skill 102
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gh_103
+    name: Ghana Skill 103
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gh_104
+    name: Ghana Skill 104
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gh_105
+    name: Ghana Skill 105
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gh_106
+    name: Ghana Skill 106
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gh_107
+    name: Ghana Skill 107
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gh_108
+    name: Ghana Skill 108
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gh_109
+    name: Ghana Skill 109
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gh_110
+    name: Ghana Skill 110
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gh_111
+    name: Ghana Skill 111
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gh_112
+    name: Ghana Skill 112
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gh_113
+    name: Ghana Skill 113
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gh_114
+    name: Ghana Skill 114
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gh_115
+    name: Ghana Skill 115
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gh_116
+    name: Ghana Skill 116
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gh_117
+    name: Ghana Skill 117
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gh_118
+    name: Ghana Skill 118
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gh_119
+    name: Ghana Skill 119
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gh_120
+    name: Ghana Skill 120
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gh_121
+    name: Ghana Skill 121
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gh_122
+    name: Ghana Skill 122
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gh_123
+    name: Ghana Skill 123
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gh_124
+    name: Ghana Skill 124
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gh_125
+    name: Ghana Skill 125
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gh_126
+    name: Ghana Skill 126
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gh_127
+    name: Ghana Skill 127
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gh_128
+    name: Ghana Skill 128
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gh_129
+    name: Ghana Skill 129
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gh_130
+    name: Ghana Skill 130
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gh_131
+    name: Ghana Skill 131
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gh_132
+    name: Ghana Skill 132
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gh_133
+    name: Ghana Skill 133
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gh_134
+    name: Ghana Skill 134
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gh_135
+    name: Ghana Skill 135
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gh_136
+    name: Ghana Skill 136
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gh_137
+    name: Ghana Skill 137
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gh_138
+    name: Ghana Skill 138
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gh_139
+    name: Ghana Skill 139
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gh_140
+    name: Ghana Skill 140
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gh_141
+    name: Ghana Skill 141
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gh_142
+    name: Ghana Skill 142
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gh_143
+    name: Ghana Skill 143
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gh_144
+    name: Ghana Skill 144
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gh_145
+    name: Ghana Skill 145
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gh_146
+    name: Ghana Skill 146
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gh_147
+    name: Ghana Skill 147
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gh_148
+    name: Ghana Skill 148
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gh_149
+    name: Ghana Skill 149
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gh_150
+    name: Ghana Skill 150
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gh_151
+    name: Ghana Skill 151
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gh_152
+    name: Ghana Skill 152
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gh_153
+    name: Ghana Skill 153
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gh_154
+    name: Ghana Skill 154
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gh_155
+    name: Ghana Skill 155
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gh_156
+    name: Ghana Skill 156
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gh_157
+    name: Ghana Skill 157
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gh_158
+    name: Ghana Skill 158
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gh_159
+    name: Ghana Skill 159
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gh_160
+    name: Ghana Skill 160
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gh_161
+    name: Ghana Skill 161
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gh_162
+    name: Ghana Skill 162
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gh_163
+    name: Ghana Skill 163
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gh_164
+    name: Ghana Skill 164
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gh_165
+    name: Ghana Skill 165
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gh_166
+    name: Ghana Skill 166
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gh_167
+    name: Ghana Skill 167
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gh_168
+    name: Ghana Skill 168
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gh_169
+    name: Ghana Skill 169
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gh_170
+    name: Ghana Skill 170
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gh_171
+    name: Ghana Skill 171
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gh_172
+    name: Ghana Skill 172
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gh_173
+    name: Ghana Skill 173
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gh_174
+    name: Ghana Skill 174
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gh_175
+    name: Ghana Skill 175
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gh_176
+    name: Ghana Skill 176
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gh_177
+    name: Ghana Skill 177
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gh_178
+    name: Ghana Skill 178
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gh_179
+    name: Ghana Skill 179
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gh_180
+    name: Ghana Skill 180
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gh_181
+    name: Ghana Skill 181
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gh_182
+    name: Ghana Skill 182
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gh_183
+    name: Ghana Skill 183
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gh_184
+    name: Ghana Skill 184
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gh_185
+    name: Ghana Skill 185
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gh_186
+    name: Ghana Skill 186
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gh_187
+    name: Ghana Skill 187
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gh_188
+    name: Ghana Skill 188
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gh_189
+    name: Ghana Skill 189
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gh_190
+    name: Ghana Skill 190
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gh_191
+    name: Ghana Skill 191
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gh_192
+    name: Ghana Skill 192
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gh_193
+    name: Ghana Skill 193
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gh_194
+    name: Ghana Skill 194
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gh_195
+    name: Ghana Skill 195
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gh_196
+    name: Ghana Skill 196
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gh_197
+    name: Ghana Skill 197
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gh_198
+    name: Ghana Skill 198
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gh_199
+    name: Ghana Skill 199
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gh_200
+    name: Ghana Skill 200
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gh_201
+    name: Ghana Skill 201
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gh_202
+    name: Ghana Skill 202
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gh_203
+    name: Ghana Skill 203
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gh_204
+    name: Ghana Skill 204
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gh_205
+    name: Ghana Skill 205
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gh_206
+    name: Ghana Skill 206
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gh_207
+    name: Ghana Skill 207
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gh_208
+    name: Ghana Skill 208
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gh_209
+    name: Ghana Skill 209
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gh_210
+    name: Ghana Skill 210
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gh_211
+    name: Ghana Skill 211
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gh_212
+    name: Ghana Skill 212
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gh_213
+    name: Ghana Skill 213
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gh_214
+    name: Ghana Skill 214
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gh_215
+    name: Ghana Skill 215
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gh_216
+    name: Ghana Skill 216
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gh_217
+    name: Ghana Skill 217
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gh_218
+    name: Ghana Skill 218
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gh_219
+    name: Ghana Skill 219
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gh_220
+    name: Ghana Skill 220
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gh_221
+    name: Ghana Skill 221
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gh_222
+    name: Ghana Skill 222
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gh_223
+    name: Ghana Skill 223
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gh_224
+    name: Ghana Skill 224
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gh_225
+    name: Ghana Skill 225
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gh_226
+    name: Ghana Skill 226
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gh_227
+    name: Ghana Skill 227
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gh_228
+    name: Ghana Skill 228
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gh_229
+    name: Ghana Skill 229
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gh_230
+    name: Ghana Skill 230
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gh_231
+    name: Ghana Skill 231
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gh_232
+    name: Ghana Skill 232
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gh_233
+    name: Ghana Skill 233
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gh_234
+    name: Ghana Skill 234
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gh_235
+    name: Ghana Skill 235
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gh_236
+    name: Ghana Skill 236
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gh_237
+    name: Ghana Skill 237
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gh_238
+    name: Ghana Skill 238
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gh_239
+    name: Ghana Skill 239
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gh_240
+    name: Ghana Skill 240
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gh_241
+    name: Ghana Skill 241
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gh_242
+    name: Ghana Skill 242
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gh_243
+    name: Ghana Skill 243
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gh_244
+    name: Ghana Skill 244
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gh_245
+    name: Ghana Skill 245
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gh_246
+    name: Ghana Skill 246
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gh_247
+    name: Ghana Skill 247
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gh_248
+    name: Ghana Skill 248
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gh_249
+    name: Ghana Skill 249
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gh_250
+    name: Ghana Skill 250
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gh_251
+    name: Ghana Skill 251
+    status: ACTIVE_SCAFFOLD
+  - id: skill_gh_252
+    name: Ghana Skill 252
+    status: ACTIVE_SCAFFOLD
