@@ -35,6 +35,26 @@
 | 2026-11-22 | Wikisource.html | https://en.wikisource.org/ | OpenCode/harvest | f1f02568e88c7f7327e2592f2cd8064cc67353af713a715cbfe36eaa2f0fe50a | PUBLIC_CAPTURE_UNAUTHENTICATED | status=200 bytes=131944 |
 | 2026-11-22 | US_Govt_Publishing_Office.html | https://www.govinfo.gov/ | OpenCode/harvest | 2afbc7eda2fb8bd786e4fa221fcfb9740604902b8a053e61d9d36a20f20993b7 | PUBLIC_CAPTURE_UNAUTHENTICATED | status=200 bytes=65676 |
 
+| 2026-11-22 | Ghana_National_Archives_public_portal.html | https://www.ghana.gov.gh/ | OpenCode/harvest | e87676ae5c1f03e9627d9252758122ad84d6b0f46c08112cef82e5b10fd26af0 | PUBLIC_CAPTURE_UNAUTHENTICATED | direct-http http_status=200 bytes=162225 final_url=https://www.ghana.gov.gh/ |
+
+| 2026-11-22 | UN_OHCHR_Ghana_browser.html | https://www.ohchr.org/en/countries/ghana | OpenCode/browser-fallback | 3925b123dd6808e7ba6ec914ada0ab9a930afd76b42f8d2c9556647af3692b61 | PUBLIC_CAPTURE_UNAUTHENTICATED | browser-fallback http_status=unknown_browser_outerhtml_capture bytes=60020 final_url=https://www.ohchr.org/en/countries/ghana |
+
+| 2026-11-22 | UN_Digital_Library_browser.html | https://digitallibrary.un.org/ | OpenCode/browser-fallback | 75f1156e852f6beef9cbcc4815c00beb1a3c763b682a264352ca9d796f368ec7 | PUBLIC_CAPTURE_UNAUTHENTICATED | browser-fallback http_status=unknown_browser_outerhtml_capture bytes=4439 final_url=https://digitallibrary.un.org/ |
+
+| 2026-11-22 | Library_of_Congress_-_Ghana_slavery_browser.html | https://www.loc.gov/item/?q=ghana+slavery | OpenCode/browser-fallback | c8cc68c7a1e5a863a2a7004a2ed8f7d1221813fab6fd28b891ca236a5657867e | PUBLIC_CAPTURE_UNAUTHENTICATED | browser-fallback http_status=unknown_browser_outerhtml_capture bytes=60000 final_url=https://www.loc.gov/item/?q=ghana+slavery |
+
+| 2026-11-22 | HathiTrust_Digital_Library_browser.html | https://babel.hathitrust.org/ | OpenCode/browser-fallback | 8efd96559c40cb3b468d3bc7134aea59da5a18fcfda131bfb18064e0abb4e5ac | PUBLIC_CAPTURE_UNAUTHENTICATED | browser-fallback http_status=unknown_browser_outerhtml_capture bytes=60066 final_url=https://babel.hathitrust.org/cgi/mb |
+
+| 2026-11-22 | Chronicling_America_LOC_browser.html | https://chroniclingamerica.loc.gov/ | OpenCode/browser-fallback | 278136037714ce8fdd265e34218ee915842e5e47a44dd74f1aabf198ff14d2bd | PUBLIC_CAPTURE_UNAUTHENTICATED | browser-fallback http_status=unknown_browser_outerhtml_capture bytes=60000 final_url=https://www.loc.gov/collections/chronicling-america/ |
+
+| 2026-11-22 | World_Bank_Ghana_browser.html | https://data.worldbank.org/country/ghana | OpenCode/browser-fallback | fce87570237d21e3985fdde04eb17a487d270ff3bfb464137865a4b710fdf482 | PUBLIC_CAPTURE_UNAUTHENTICATED | browser-fallback http_status=unknown_browser_outerhtml_capture bytes=3422 final_url=https://data.worldbank.org/country/ghana |
+
+| 2026-11-22 | Justia_browser.html | https://www.justia.com/ | OpenCode/browser-fallback | 09c0c23cf3140d953d5fa96ce934c674f00655e42f09ed2a6601b6620789df0f | PUBLIC_CAPTURE_UNAUTHENTICATED | browser-fallback http_status=unknown_browser_outerhtml_capture bytes=60045 final_url=https://www.justia.com/ |
+
+| 2026-11-22 | CourtListener_browser.html | https://www.courtlistener.com/ | OpenCode/browser-fallback | 517642d53d8c59668b9da5f6c7c74297d58f0df755392468f3f6434eb6a4af6d | PUBLIC_CAPTURE_UNAUTHENTICATED | browser-fallback http_status=unknown_browser_outerhtml_capture bytes=51996 final_url=https://www.courtlistener.com/ |
+
+| 2026-11-22 | UNESCO_Slave_Route_browser.html | https://www.unesco.org/en/routes-enslaved-peoples | OpenCode/browser-fallback | e08c0927f02d19df6fcf7916d356c9c14132b3944b675620d06444afcd9abbcb | PUBLIC_CAPTURE_UNAUTHENTICATED | browser-fallback http_status=unknown_browser_outerhtml_capture bytes=60014 final_url=https://www.unesco.org/en/routes-enslaved-peoples |
+
 ## Intake Rules
 - Record source URL, access date, downloader, file hash, and storage path.
 - No authenticated claim without custodian/legal review.
